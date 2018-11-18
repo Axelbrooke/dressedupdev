@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+.flex {
+  display: flex;
+  flex-direction: row; }
+
+.end {
+  justify-content: flex-end; }
+
+.row {
+  flex-direction: column; }
+
+.center {
+  justify-content: center; }
+
+.spacing {
+  justify-content: space-evenly; }
+
+.menu {
+  font-weight: 100;
+  font-size: 12px; }
+
+.title {
+  font-family: 'Raleway Dots', cursive;
+  font-weight: lighter;
+  font-size: 120px; }
+
+.sub-header {
+  font-family: 'Codystar', cursive;
+  font-size: 90px;
+  font-weight: lighter; }
+
+.main-padding-side {
+  padding: 0 80px; }
+
+.content-padding {
+  padding: 0 25px 0 25px; }
+
+.separator-line {
+  border-right: 1px solid black; }
+
+.content-font {
+  font-family: 'Raleway', sans-serif;
+  font-weight: lighter; }
+
+.content-size {
+  font-size: 24px; }
+
+.j-font {
+  font-family: 'Hiragino Sans', sans-serif;
+  font-weight: 100;
+  font-size: 23.5px;
+  line-height: 1.3; }
+
+/*# sourceMappingURL=main.css.map */
